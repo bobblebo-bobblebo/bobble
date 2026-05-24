@@ -1,0 +1,10 @@
+sushi=["rice","nori","fish","avocado","cucumber","sousoys"]
+print(sushi)
+# sushi.append("vasabi")
+# print(sushi)
+# sushi.append("chicken")
+# print(sushi)
+# sushi.insert(0,"meet")
+# # sushi.remove("rice")
+# sushi.pop(5)
+# print(sushi)
